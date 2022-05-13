@@ -11,7 +11,7 @@
     "babel-polyfill": "^6.26.0",
     "babel-register": "^6.26.0",
     "bindings": "^1.5.0",
-    "ganache-cli": "^6.4.1",
+    "ganache-cli": "^6.12.2",
     "node-gyp": "^3.8.0",
     "truffle": "5.0.25",
     "truffle-hdwallet-provider": "1.0.17"
